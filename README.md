@@ -1,1 +1,3 @@
 Alterado
+
+nova linha adicionada
